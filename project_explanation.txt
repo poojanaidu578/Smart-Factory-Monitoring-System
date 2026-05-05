@@ -1,0 +1,26 @@
+Project Name:
+Smart Factory Monitoring Dashboard
+
+Description:
+A real-time industrial monitoring dashboard developed using Grafana, PostgreSQL, and Python.
+
+Features:
+- Real-time machine monitoring
+- KPI cards
+- Production analytics
+- Temperature monitoring
+- Failure analysis
+- Machine downtime tracking
+- Shift-wise performance monitoring
+- Alerts and threshold monitoring
+
+Technologies Used:
+- Grafana
+- PostgreSQL
+- Python
+
+Project Workflow:
+Python Live Data Generator → PostgreSQL Database → Grafana Dashboard
+
+Purpose:
+This project simulates an Industry 4.0 smart factory monitoring system where live machine data is generated, stored, analyzed, and visualized in real time.
